@@ -53,7 +53,7 @@
 		</form>
 
 		<hr>
-		<a href="student/list">Back to Students List</a>
+		<a href="list">Back to Students List</a>
 
 	</div>
 </body>
